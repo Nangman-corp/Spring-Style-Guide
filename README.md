@@ -7,8 +7,8 @@
 
 [Java code style은 여기를 참고해주세요.](https://github.com/Nangman-corp/Java-Style-Guide)
 
----
 ## 목차
+---
 ### [1. 소개(Intro)](https://github.com/Nangman-corp/Spring-Style-Guide#1-%EC%86%8C%EA%B0%9Cintro-1)
 - [1.1 용어(term)](https://github.com/Nangman-corp/Spring-Style-Guide/blob/main/README.md#11-%EC%9A%A9%EC%96%B4term)
 ### [2. 패키지 포맷(Package format)](https://github.com/Nangman-corp/Spring-Style-Guide/blob/main/README.md#2-%ED%8C%A8%ED%82%A4%EC%A7%80-%ED%8F%AC%EB%A7%B7package-format-1)
