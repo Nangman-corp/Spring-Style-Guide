@@ -1,7 +1,5 @@
 # Spring Style Guide
 
-엔지니어링 팀을 위한 스타일 가이드와 모범 사례
-
 <aside>
 💡 본문은 낭만(Nangman)의 Spring 스타일 가이드 입니다.
 
