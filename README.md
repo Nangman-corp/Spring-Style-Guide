@@ -36,7 +36,7 @@
 	- [4.1.5 컨트롤러 클래스(Controller class)](https://github.com/Nangman-corp/Spring-Style-Guide/blob/main/README.md#415-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4controller-class)
 	- [4.1.6 컨트롤러 매개변수(Controller parameter)](https://github.com/Nangman-corp/Spring-Style-Guide/blob/main/README.md#416-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98controller-parameter)
 - [4.2 검증 메소드(Validation Method)](https://github.com/Nangman-corp/Spring-Style-Guide/blob/main/README.md#42-%EA%B2%80%EC%A6%9D-%EB%A9%94%EC%86%8C%EB%93%9Cvalidation-method)
-### [5. 주석 템플릿(Comments Templete)](https://github.com/Nangman-corp/Spring-Style-Guide/blob/main/README.md#5-%EC%A3%BC%EC%84%9D-%ED%85%9C%ED%94%8C%EB%A6%BFcomments-templete)
+### [5. 주석 템플릿(Comments Templete)](https://github.com/Nangman-corp/Spring-Style-Guide/blob/main/README.md#5-%EC%A3%BC%EC%84%9D-%ED%85%9C%ED%94%8C%EB%A6%BFcomments-templete-1)
 
 
 ---
