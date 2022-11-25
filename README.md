@@ -151,7 +151,7 @@
 
 </aside>
 
-## 3.1 복수, 단수 규칙
+## 3.1 복수, 단수 규칙(Plural and singular rules)
 
 ---
 
