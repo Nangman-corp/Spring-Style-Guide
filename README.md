@@ -442,7 +442,7 @@ public class UserApiController{
 }
 ```
 
-### 4.1.5 컨트롤러 매개변수(Controller parameter)
+### 4.1.6 컨트롤러 매개변수(Controller parameter)
 
 - @Valid와 @RequestBody 등 파라미터의 어노테이션의 줄바꿈은 자율적으로 진행합니다.
 
